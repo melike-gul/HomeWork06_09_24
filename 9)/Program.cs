@@ -1,16 +1,45 @@
-﻿namespace _9_;
+﻿using System.Globalization;
+
+namespace _9_;
 
 class Program
 {
     static void Main(string[] args)
     {
-       int[] array = {1, -2, 3, 0, 5, -7, 8, -9, 10, -11 };
+       int[] numbers = {1, -2, 3, 0, 5, -7, 8, -9, 10, -11 };
        System.Console.WriteLine("Orjinal Dizi: ");
-       PrintArray(array);
+       foreach (int num in numbers)
+       {
+        System.Console.WriteLine(num + "" );
+       }
+       System.Console.WriteLine();
 
-       ReversePositiveNumbers(Array);
+       List<int> possitiveNumbers = new List<int>();
 
-       System.Console.WriteLine("Pozitif Sayıları Ters Çevrilmiş Dizi:");
-       PrintArray(array);
+       foreach (int num in numbers)
+       {
+            if (num > 0)
+            {
+                possitiveNumbers.Add(num);
+            }
+       }
+
+       possitiveNumbers.Reverse();
+
+       int index = 0;
+       for (int i = 0; i < numbers.Length; i++)
+       {
+        if (numbers[i] > 0)
+        {
+            numbers[i] = possitiveNumbers[index++];
+        }
+       }
+
+       System.Console.WriteLine("Pozitif sayıları ters çervilmiş Dizi: ");
+       foreach (int num in numbers)
+       {
+            System.Console.WriteLine(num + " ");
+       }
+       System.Console.WriteLine();
     }
 }

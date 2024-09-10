@@ -25,7 +25,7 @@ class Program
        System.Console.WriteLine("Kontrol edilen elmanlar (for döngüsü ile): ");
         for ( int i = 0; i < numbers.Length; i++)
         {
-            int currentNum = numbers[i]
+            int currentNum = numbers[i];
             if (occurrences.ContainsKey(currentNum))
             {
                 occurrences[currentNum].Add(i);

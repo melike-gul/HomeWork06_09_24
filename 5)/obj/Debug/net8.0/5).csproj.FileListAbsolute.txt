@@ -1,0 +1,15 @@
+/Users/melikegul/Documents/GitHub/HomeWork06_09_24/5)/bin/Debug/net8.0/5)
+/Users/melikegul/Documents/GitHub/HomeWork06_09_24/5)/bin/Debug/net8.0/5).deps.json
+/Users/melikegul/Documents/GitHub/HomeWork06_09_24/5)/bin/Debug/net8.0/5).runtimeconfig.json
+/Users/melikegul/Documents/GitHub/HomeWork06_09_24/5)/bin/Debug/net8.0/5).dll
+/Users/melikegul/Documents/GitHub/HomeWork06_09_24/5)/bin/Debug/net8.0/5).pdb
+/Users/melikegul/Documents/GitHub/HomeWork06_09_24/5)/obj/Debug/net8.0/5).GeneratedMSBuildEditorConfig.editorconfig
+/Users/melikegul/Documents/GitHub/HomeWork06_09_24/5)/obj/Debug/net8.0/5).AssemblyInfoInputs.cache
+/Users/melikegul/Documents/GitHub/HomeWork06_09_24/5)/obj/Debug/net8.0/5).AssemblyInfo.cs
+/Users/melikegul/Documents/GitHub/HomeWork06_09_24/5)/obj/Debug/net8.0/5).csproj.CoreCompileInputs.cache
+/Users/melikegul/Documents/GitHub/HomeWork06_09_24/5)/obj/Debug/net8.0/5).sourcelink.json
+/Users/melikegul/Documents/GitHub/HomeWork06_09_24/5)/obj/Debug/net8.0/5).dll
+/Users/melikegul/Documents/GitHub/HomeWork06_09_24/5)/obj/Debug/net8.0/refint/5).dll
+/Users/melikegul/Documents/GitHub/HomeWork06_09_24/5)/obj/Debug/net8.0/5).pdb
+/Users/melikegul/Documents/GitHub/HomeWork06_09_24/5)/obj/Debug/net8.0/5).genruntimeconfig.cache
+/Users/melikegul/Documents/GitHub/HomeWork06_09_24/5)/obj/Debug/net8.0/ref/5).dll
